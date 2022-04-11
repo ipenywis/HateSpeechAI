@@ -1,0 +1,21 @@
+{
+  "name": "HateSpeechAI",
+  "version": "1.0.0",
+  "description": "Hate Speech AI (Detection & Paltform)",
+  "main": "index.js",
+  "repository": "https://github.com/ipenywis/HateSpeechAI.git",
+  "author": "Islem Maboud <islempenywis@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preprocess": "node ./dataProcessing/loadDataFromTwitterAPI/index.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "csv-writer": "^1.6.0",
+    "neat-csv": "^7.0.0",
+    "ts-node": "^10.7.0",
+    "twitter-api-sdk": "^1.0.2"
+  }
+}
