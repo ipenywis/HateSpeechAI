@@ -9,7 +9,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "preprocess": "node ./dataProcessing/loadDataFromTwitterAPI/index.js"
+    "preprocess": "node ./dataProcessing/loadDataFromTwitterAPI/index.js",
+    "convertToCSV": "node ./dataProcessing/convertDataToCSV/index.js",
+    "formatSexismData": "node ./dataProcessing/formatSexismData/index.js"
   },
   "dependencies": {
     "csv-parse": "^5.0.4",

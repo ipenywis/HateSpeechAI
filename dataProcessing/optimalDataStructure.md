@@ -9,7 +9,7 @@
 | neutral tweet (optional)   | 2     |
 | abusive (optional)         | 3     |
 | spam (optional)            | 4     |
-| insult (optional) (N/A)    | 5     |
-| racism (optional) (N/A)    | 6     |
+| sexism (optional) (N/A)    | 5     |
+| insult (optional) (N/A)    | 6     |
 
     NOTE: Other fields are allowed, but not required.

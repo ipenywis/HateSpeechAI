@@ -1,0 +1,146 @@
+{
+  "1179055004553900032_twitter": {
+    "post_id": "1179055004553900032_twitter",
+    "annotators": [
+      { "label": "normal", "annotator_id": 1, "target": ["None"] },
+      { "label": "normal", "annotator_id": 2, "target": ["None"] },
+      { "label": "normal", "annotator_id": 3, "target": ["None"] }
+    ],
+    "rationales": [],
+    "post_tokens": [
+      "i",
+      "dont",
+      "think",
+      "im",
+      "getting",
+      "my",
+      "baby",
+      "them",
+      "white",
+      "9",
+      "he",
+      "has",
+      "two",
+      "white",
+      "j",
+      "and",
+      "nikes",
+      "not",
+      "even",
+      "touched"
+    ]
+  },
+  "1179063826874032128_twitter": {
+    "post_id": "1179063826874032128_twitter",
+    "annotators": [
+      { "label": "normal", "annotator_id": 1, "target": ["None"] },
+      { "label": "normal", "annotator_id": 2, "target": ["None"] },
+      { "label": "normal", "annotator_id": 3, "target": ["None"] }
+    ],
+    "rationales": [],
+    "post_tokens": [
+      "we",
+      "cannot",
+      "continue",
+      "calling",
+      "ourselves",
+      "feminists",
+      "if",
+      "the",
+      "rights",
+      "of",
+      "all",
+      "womxn",
+      "arent",
+      "addressed",
+      "yes",
+      "to",
+      "a",
+      "sexual",
+      "offences",
+      "public",
+      "list",
+      "but",
+      "will",
+      "a",
+      "trans",
+      "lesbian",
+      "bisexual",
+      "and",
+      "queer",
+      "womxn",
+      "be",
+      "able",
+      "to",
+      "enter",
+      "their",
+      "information",
+      "on",
+      "the",
+      "reporting",
+      "sheet",
+      "gender",
+      "forum"
+    ]
+  },
+  "1178793830532956161_twitter": {
+    "post_id": "1178793830532956161_twitter",
+    "annotators": [
+      { "label": "normal", "annotator_id": 4, "target": ["African"] },
+      { "label": "normal", "annotator_id": 2, "target": ["None"] },
+      { "label": "hatespeech", "annotator_id": 3, "target": ["African"] }
+    ],
+    "rationales": [],
+    "post_tokens": ["nawt", "yall", "niggers", "ignoring", "me"]
+  },
+  "1179088797964763136_twitter": {
+    "post_id": "1179088797964763136_twitter",
+    "annotators": [
+      { "label": "hatespeech", "annotator_id": 1, "target": ["Asian"] },
+      { "label": "offensive", "annotator_id": 4, "target": ["Asian"] },
+      { "label": "hatespeech", "annotator_id": 3, "target": ["Asian"] }
+    ],
+    "rationales": [
+      [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0,
+        0, 0
+      ],
+      [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0,
+        0, 0
+      ],
+      [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0,
+        0, 0
+      ]
+    ],
+    "post_tokens": [
+      "<user>",
+      "i",
+      "am",
+      "bit",
+      "confused",
+      "coz",
+      "chinese",
+      "ppl",
+      "can",
+      "not",
+      "access",
+      "twitter",
+      "thn",
+      "how",
+      "this",
+      "ching",
+      "chong",
+      "using",
+      "it",
+      "i",
+      "think",
+      "he",
+      "pakistani",
+      "\ud83e\udd14",
+      "\ud83e\udd14",
+      "\ud83e\udd14"
+    ]
+  }
+}
