@@ -1,10 +1,5 @@
 #!/bin/bash
 
-TESTDATA="$(pwd)/serving/tensorflow_serving/servables/tensorflow/testdata"
-export TESTDATA
+MODEL_DIR="$(pwd)/model/savedModels"
 
-# Start TensorFlow Serving container and open the REST API port
-docker run -t --rm -p 8501:8501 \
-  -v "$TESTDATA/saved_model_half_plus_two_cpu:/models/half_plus_two" \
-  -e MODEL_NAME=half_plus_two \
-  tensorflow/serving &
+docker run -t --rm -p 8501:8501 -v "$MODEL_DIR/v2:/models/hate_speech/2" -e MODEL_NAME=hate_speech tensorflow/serving &

@@ -14,6 +14,7 @@
     "formatSexismData": "node ./dataProcessing/formatSexismData/index.js"
   },
   "dependencies": {
+    "@tensorflow/tfjs-node": "^3.17.0",
     "csv-parse": "^5.0.4",
     "csv-writer": "^1.6.0",
     "neat-csv": "^7.0.0",
